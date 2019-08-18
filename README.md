@@ -41,11 +41,11 @@
 
 **回溯法：**
 
-- 0039：组合总和
-- 0040：组合总和II
-- 0046：全排列
-- 0047：全排列II
-- 0784：字母大小写全排列
+- [0039：组合总和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0039_组合总和.ipynb)
+- [0040：组合总和II](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0047_组合总和II.ipynb)
+- [0046：全排列](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0046_全排列.ipynb)
+- [0047：全排列II](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0047_全排列II.ipynb)
+- [0784：字母大小写全排列](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0784_字母大小写全排列.ipynb)
 
 **动态规划：**
 
@@ -56,15 +56,16 @@
 
 **滑动窗口：**
 
-- 0438：找到字符串中所有字母异位词
-- 0003：无重复字符的最长子串
-- 0053：最大子序和
-- 0076：最小覆盖子串
-- 0209：长度最小的子数组
+- [0438：找到字符串中所有字母异位词](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0438_找到字符串中所有字母异位词.ipynb)
+- [0003：无重复字符的最长子串](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0003_无重复字符的最长子串.ipynb)
+- [0053：最大子序和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0053_最大子序和.ipynb)
+- [0076：最小覆盖子串](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0076_最小覆盖子串.ipynb)
+- [0209：长度最小的子数组](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0209_长度最小的子数组.ipynb)
 
 **其他：**
 
-- 0287：找到数组中的重复数字
+- [0287：找到数组中的重复数字](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0287_找到数组中的重复数字.ipynb)
+- [0892：三维形体的表面积](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0892_三维形体的表面积.ipynb)
 - 1094：拼车
 
 ## 目录

@@ -11,10 +11,10 @@ class Graph():
         self.graph[u].append(v)
 
     def isCyclicUtil(self, v, visited, recStack):
-        visited[v] = True
+        visited[v] = True  # 将该节点标记为访问过
         recStack[v] = True
 
-        for neighbour in self.graph[v]:
+        for neighbour in self.graph[v]:  # 遍历所有该节点指向的节点
             if visited[neighbour] == False:
                 if self.isCyclicUtil(neighbour, visited, recStack) == True:
                     return True
