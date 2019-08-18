@@ -2,9 +2,9 @@
 
 # 算法与数据结构相关练习
 
-## 索引
+## 分类索引
 
-面试题_数字表示剑指offer第二版的索引，四位数字表示leetcode题库索引，其他的在文件夹*其他常见算法题*中。
+面试题_数字表示剑指offer第二版的题号，四位数字表示leetcode题库的题号，其他的在文件夹*其他常见算法题*中。
 
 **链表：**
 
@@ -41,6 +41,7 @@
 
 **回溯法：**
 
+- 面试题13：机器人的运动范围
 - [0039：组合总和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0039_组合总和.ipynb)
 - [0040：组合总和II](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0047_组合总和II.ipynb)
 - [0046：全排列](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0046_全排列.ipynb)
@@ -49,10 +50,17 @@
 
 **动态规划：**
 
-- 面试题13：机器人的运动范围
+- 面试题42：连续子数组的最大和 （同[LeetCode0053：最大子序和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0053_最大子序和.ipynb)）
+- [0121：买卖股票的最佳时机](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0121_买卖股票的最佳时机.ipynb)
+- [0122：买卖股票的最佳时机II](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0122_买卖股票的最佳时机II.ipynb)
+- [0309：最佳买卖股票时机含冷冻期](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0309_最佳买卖股票时机含冷冻期.ipynb)
+- [0714：买卖股票的最佳时机含手续费](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0714_买卖股票的最佳时机含手续费.ipynb)
+- [0188：买卖股票的最佳时机IV](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0188_买卖股票的最佳时机IV.ipynb)
+- [0123：买卖股票的最佳时机III](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0123_买卖股票的最佳时机III.ipynb)
 - 动态规划_伐木
 - 动态规划求编辑距离
 - 动态规划求有向无环图最长路径
+- [0523：连续的子数组和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0523_连续的子数组和.ipynb) （其中的思路一，数组的前缀和）
 
 **滑动窗口：**
 
