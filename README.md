@@ -6,6 +6,10 @@
 
 面试题_数字表示剑指offer第二版的题号，四位数字表示leetcode题库的题号，其他的在文件夹*其他常见算法题*中。
 
+**哈希表：**
+
+- 面试题50：第一个只出现一次的字符
+
 **链表：**
 
 - 面试题06：从尾到头打印链表
@@ -22,6 +26,7 @@
 **二叉树：**
 
 - 二叉树的七种遍历方式
+- 面试题07：重建二叉树
 - 面试题08：二叉树的下一个节点
 - 面试题26：树的子结构
 - 面试题27：二叉树的镜像
@@ -39,9 +44,20 @@
 - 面试题30：包含min函数的栈
 - 面试题31：栈的压入弹出序列
 
-**回溯法：**
+**查找、排序：**
+- 面试题03：数组中重复的数字
+- 面试题04：二维数组中的查找
+- 面试题11：旋转数组的最小数字
+- 面试题39：数组中出现次数超过一半的数字
+- 面试题40：最小的k个数
+- 面试题53：在排序数组中查找数字
 
+**递归-回溯法：**
+
+- 面试题12：矩阵中的路径
 - 面试题13：机器人的运动范围
+- 面试题38：字符串的排列
+- [0077：组合](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0077_组合.ipynb)
 - [0039：组合总和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0039_组合总和.ipynb)
 - [0040：组合总和II](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0047_组合总和II.ipynb)
 - [0046：全排列](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0046_全排列.ipynb)
@@ -50,6 +66,7 @@
 
 **动态规划：**
 
+- 面试题10：斐波那契数列、青蛙跳台阶、变态跳台阶等
 - 面试题42：连续子数组的最大和 （同[LeetCode0053：最大子序和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0053_最大子序和.ipynb)）
 - [0121：买卖股票的最佳时机](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0121_买卖股票的最佳时机.ipynb)
 - [0122：买卖股票的最佳时机II](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0122_买卖股票的最佳时机II.ipynb)
@@ -60,7 +77,8 @@
 - 动态规划_伐木
 - 动态规划求编辑距离
 - 动态规划求有向无环图最长路径
-- [0523：连续的子数组和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0523_连续的子数组和.ipynb) （其中的思路一，数组的前缀和）
+- [0523：连续的子数组和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0523_连续的子数组和.ipynb) （思路一，数组的前缀和）
+- [0718：最长重复子数组](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0718_最长重复子数组.ipynb)  (思路二，最长公共前缀)
 
 **滑动窗口：**
 
@@ -77,6 +95,13 @@
 
 **其他：**
 
+- 面试题29：顺时针打印矩阵
+- 面试题39：数组中出现超过一半的数字
+- 面试题40：最小的k个数
+- 面试题56：数组中出现的数字
+- [0011：盛水最多的容器](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0011_盛水最多的容器.ipynb) （双指针）
+- [0628：三个数的最大乘积](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0628_三个数的最大乘积.ipynb)
+- [0067：二进制求和](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0067_二进制求和.ipynb)
 - [0287：找到数组中的重复数字](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0287_找到数组中的重复数字.ipynb)
 - [0892：三维形体的表面积](https://github.com/HJ-TANG/Data_Structure_Exercises/blob/master/LeetCode/LeetCode_0892_三维形体的表面积.ipynb)
 
